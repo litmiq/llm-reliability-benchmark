@@ -1,0 +1,19 @@
+{
+  "schema": "litmiq-benchmark-dataset/1",
+  "id": "llm-reliability-benchmark",
+  "latest": "v1.0",
+  "released": "2026-11-12",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "citation": "Litmiq (2026). LLM Reliability Benchmark 2026 (suite v1.0) [Data set]. Measured 12 November 2026 on Cloudflare Workers AI. https://litmiq.com/llm-reliability-benchmark and https://litmiq.com/datasets/llm-reliability-benchmark. License: CC BY 4.0.",
+  "page": "https://litmiq.com/llm-reliability-benchmark",
+  "dataset_page": "https://litmiq.com/datasets/llm-reliability-benchmark",
+  "files": {
+    "results.csv": "https://litmiq.com/assets/benchmark/v1.0/results.csv",
+    "results.json": "https://litmiq.com/assets/benchmark/v1.0/results.json",
+    "leaderboard.csv": "https://litmiq.com/assets/benchmark/v1.0/leaderboard.csv",
+    "summary.json": "https://litmiq.com/assets/benchmark/v1.0/summary.json",
+    "suite-v1.0.json": "https://litmiq.com/assets/benchmark/v1.0/suite-v1.0.json",
+    "grade.py": "https://litmiq.com/assets/benchmark/v1.0/grade.py",
+    "run_benchmark.py": "https://litmiq.com/assets/benchmark/v1.0/run_benchmark.py"
+  }
+}
